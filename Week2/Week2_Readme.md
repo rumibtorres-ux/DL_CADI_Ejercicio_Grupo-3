@@ -65,3 +65,10 @@ Para cada configuración se analizaron:
 El valor del puntaje zzz
 La activación o no de la neurona
 El comportamiento de la salida frente a un problema tipo AND
+
+
+¿Cómo ejecutar el notebook?
+
+1. Abrir el notebook en Google Colab.
+2. Ejecutar programa 
+3. Observar en la salida los valores
