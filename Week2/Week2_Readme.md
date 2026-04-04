@@ -1,4 +1,4 @@
-Semana 2 – Actividad 1: Implementación de Redes Neuronales Básicas en Google Colab 
+# Semana 2 – Actividad 1: Implementación de Redes Neuronales Básicas en Google Colab 
 
 En esta actividad, las y los creadores de oportunidades desarrollarán una práctica guiada orientada a implementar y validar una red neuronal básica en un entorno de cuaderno interactivo (Google Colab), con el propósito de consolidar las bases del aprendizaje profundo desde la lógica de una neurona/perceptrón y la toma de decisiones por umbral.
 
@@ -51,14 +51,14 @@ El/la creador(a) de oportunidades debe entregar el enlace directo a la carpeta w
 
 
 
-Objetivo de la actividad
+# Objetivo de la actividad
 Implementar y analizar el comportamiento de una neurona artificial básica (perceptrón) con función de activación por umbral, con el fin de comprender cómo las entradas, los pesos y el sesgo (bias) influyen en la toma de decisiones y en la salida binaria de clasificación (0/1).
 
-¿Qué se implementó?
+# ¿Qué se implementó?
 Se implementó una neurona/perceptrón simple que calcula el puntaje lineal z=w1x1+w2x2+bz = w_1x_1 + w_2x_2 + bz=w1​x1​+w2​x2​+b y aplica una función escalón como regla de activación.
 Los pesos se mantuvieron constantes y se realizaron variaciones en el bias para observar su impacto en la salida del modelo.
 
-¿Qué pruebas se realizaron? (en términos generales)
+# ¿Qué pruebas se realizaron? (en términos generales)
 Se evaluó el perceptrón con un conjunto de entradas binarias, modificando el valor del sesgo en distintos escenarios.
 Para cada configuración se analizaron:
 
@@ -67,7 +67,7 @@ La activación o no de la neurona
 El comportamiento de la salida frente a un problema tipo AND
 
 
-¿Cómo ejecutar el notebook?
+# ¿Cómo ejecutar el notebook?
 
 1. Abrir el notebook en Google Colab.
 2. Ejecutar programa 
