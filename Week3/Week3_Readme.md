@@ -42,6 +42,8 @@ El repositorio permite identificar con claridad la evidencia de Semana 3 (estruc
 5) Forma de entrega
 Entregar el enlace directo a la carpeta week3/ del repositorio de GitHub.
 
+____________________________________________________________________________________________________________________
+
 # Objetivo de la actividad
 xxxxxx
 
