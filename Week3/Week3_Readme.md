@@ -42,19 +42,18 @@ El repositorio permite identificar con claridad la evidencia de Semana 3 (estruc
 5) Forma de entrega
 Entregar el enlace directo a la carpeta week3/ del repositorio de GitHub.
 
-#Objetivo de la actividad
-Implementar y analizar el comportamiento de una neurona artificial básica (perceptrón) con función de activación por umbral, con el fin de comprender cómo las entradas, los pesos y el sesgo (bias) influyen en la toma de decisiones y en la salida binaria de clasificación (0/1).
+# Objetivo de la actividad
+xxxxxx
 
 # ¿Qué se implementó?
-Se implementó una neurona/perceptrón simple que calcula el puntaje lineal z=w1x1+w2x2+bz = w_1x_1 + w_2x_2 + bz=w1​x1​+w2​x2​+b y aplica una función escalón como regla de activación. Los pesos se mantuvieron constantes y se realizaron variaciones en el bias para observar su impacto en la salida del modelo.
+xxxxxxxx
 
 # ¿Qué pruebas se realizaron? (en términos generales)
-Se evaluó el perceptrón con un conjunto de entradas binarias, modificando el valor del sesgo en distintos escenarios. Para cada configuración se analizaron:
+xxxxxxxx
 
-El valor del puntaje zzz La activación o no de la neurona El comportamiento de la salida frente a un problema tipo AND
 
 # ¿Cómo ejecutar el notebook?
-Abrir el notebook en Google Colab.
+Abrir el notebook en Google Colab
 Ejecutar programa
 Observar en la salida los valores
 
