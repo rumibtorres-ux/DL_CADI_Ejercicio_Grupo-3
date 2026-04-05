@@ -1,5 +1,5 @@
 
-# Semana 4 – Actividad 4: Aplicación de Métodos de Regularización en una Red Neuronal
+# Week  4 – Actividad 4: Aplicación de Métodos de Regularización en una Red Neuronal
 
 En esta actividad, las y los creadores de oportunidades aplicarán métodos de regularización a una red neuronal en Google Colab, con el propósito de reducir el sobreajuste (overfitting) y mejorar la capacidad de generalización del modelo. La regularización se evidencia comparando el desempeño del modelo con y sin técnicas de regularización, observando el comportamiento del loss y/o métricas en entrenamiento y evaluación.
 
