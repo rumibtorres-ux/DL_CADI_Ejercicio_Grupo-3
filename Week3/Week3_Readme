@@ -1,4 +1,4 @@
-# Semana 3 – Actividad 2: Implementación de Backpropagation y Funciones de Activación en Redes Neuronales en Google Colab
+#Week 3 – Actividad 2: Implementación de Backpropagation y Funciones de Activación en Redes Neuronales en Google Colab
 
 En esta actividad, las y los creadores de oportunidades implementarán y validarán el proceso de aprendizaje de una red neuronal mediante backpropagation y el uso de funciones de activación, en un entorno de práctica guiada (Google Colab). El propósito es evidenciar cómo una red ajusta sus parámetros (pesos y sesgos) para reducir el error durante el entrenamiento, y cómo las funciones de activación influyen en el comportamiento del modelo y su capacidad de aprendizaje.
 
@@ -42,10 +42,10 @@ El repositorio permite identificar con claridad la evidencia de Semana 3 (estruc
 5) Forma de entrega
 Entregar el enlace directo a la carpeta week3/ del repositorio de GitHub.
 
-# Objetivo de la actividad
+#Objetivo de la actividad
 Implementar y analizar el comportamiento de una neurona artificial básica (perceptrón) con función de activación por umbral, con el fin de comprender cómo las entradas, los pesos y el sesgo (bias) influyen en la toma de decisiones y en la salida binaria de clasificación (0/1).
 
-¿Qué se implementó?
+#¿Qué se implementó?
 Se implementó una neurona/perceptrón simple que calcula el puntaje lineal z=w1x1+w2x2+bz = w_1x_1 + w_2x_2 + bz=w1​x1​+w2​x2​+b y aplica una función escalón como regla de activación. Los pesos se mantuvieron constantes y se realizaron variaciones en el bias para observar su impacto en la salida del modelo.
 
 ¿Qué pruebas se realizaron? (en términos generales)
