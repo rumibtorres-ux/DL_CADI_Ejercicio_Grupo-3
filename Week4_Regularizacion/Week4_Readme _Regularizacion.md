@@ -49,3 +49,20 @@ El repositorio permite identificar con claridad la evidencia de Semana 4 (estruc
 5) Forma de entrega
 
 Entregar el enlace directo a la carpeta week4/ del repositorio de GitHub.
+
+
+________________________________________________________________________________________________________
+
+# Objetivo de la actividad
+Aplicar técnicas de regularización en una red neuronal para reducir el sobreajuste (overfitting) y mejorar la capacidad de generalización del modelo, mediante la comparación entre un modelo base y un modelo regularizado, usando un escenario simulado de contact center.
+
+# ¿Qué se implementó?
+Se implementó una red neuronal entrenable para clasificar casos de un contact center (FCR vs escalamiento), entrenada en dos configuraciones: un modelo base sin regularización y un modelo con regularización L2 y Dropout, manteniendo constante la arquitectura y el dataset.
+
+# ¿Qué pruebas se realizaron? (en términos generales)
+Se entrenaron ambos modelos por múltiples épocas y se comparó su desempeño mediante curvas de loss y accuracy en entrenamiento y validación, así como métricas finales sobre un conjunto de prueba, con el fin de evidenciar el efecto de la regularización sobre el overfitting y la estabilidad del aprendizaje.
+
+# ¿Cómo ejecutar el notebook?
+Acceder a la carpeta week3/ 
+Abrir el archivo Week4_Act3_RumiTorres.ipynb en Google Colab. 
+Ejecutar todas las celdas en orden (Entorno de ejecución → Ejecutar todo).
