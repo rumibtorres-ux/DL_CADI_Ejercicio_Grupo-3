@@ -1,4 +1,4 @@
-Semana 4 – Actividad 3: Aplicación de Técnicas de Optimización en una Red Neuronal en Google Colab 
+# Semana 4 – Actividad 3: Aplicación de Técnicas de Optimización en una Red Neuronal en Google Colab 
 
 En esta actividad, las y los creadores de oportunidades aplicarán técnicas de optimización al entrenamiento de una red neuronal en Google Colab, con el propósito de comprender cómo cambia el proceso de aprendizaje cuando se ajusta la forma en que se actualizan los parámetros del modelo. La optimización se evidencia en la evolución del entrenamiento (por ejemplo, comportamiento del loss y/o métricas) y en la comparación de configuraciones.
 
@@ -46,13 +46,19 @@ El repositorio permite identificar con claridad la evidencia de Semana 4 (estruc
 5) Forma de entrega
 
 Entregar el enlace directo a la carpeta week4/ del repositorio de GitHub.
+________________________________________________________________________________________________________
+
+# Objetivo de la actividad
+xxxxxx
+
+# ¿Qué se implementó?
+xxxxxxxx
+
+# ¿Qué pruebas se realizaron? (en términos generales)
+xxxxxxxx
 
 
-¿Cómo ejecutar el notebook?
-
-Abrir el notebook en Google Colab.
+# ¿Cómo ejecutar el notebook?
+Abrir el notebook en Google Colab
 Ejecutar programa
-Observar en la salida los valores, donde encontrara 
-Qué se implementó
-Qué pruebas se realizaron
-Resultados principales/Concluciosnes 
+Observar en la salida los valores
