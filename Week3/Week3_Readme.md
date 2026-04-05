@@ -62,13 +62,13 @@ Registro del proceso de entrenamiento a lo largo de 100 épocas, mostrando: Evol
 Se realizaron las siguientes pruebas de validación:
 
 
-Prueba de entrenamiento:  Ejecución del entrenamiento completo para cada activación (Sigmoid y ReLU). Verificación de que el loss disminuye o se estabiliza con las épocas.
+1) Prueba de entrenamiento:  Ejecución del entrenamiento completo para cada activación (Sigmoid y ReLU). Verificación de que el loss disminuye o se estabiliza con las épocas.
 
-Prueba de métricas: Evaluación del modelo entrenado sobre el mismo dataset de entrada. Comparación del loss final y la accuracy final entre ambas activaciones.
+2) Prueba de métricas: Evaluación del modelo entrenado sobre el mismo dataset de entrada. Comparación del loss final y la accuracy final entre ambas activaciones.
 
-Prueba de predicciones:  Generación de predicciones para las entradas del problema OR. Validación de que la red aprendió el patrón lógico esperado.
+3) Prueba de predicciones:  Generación de predicciones para las entradas del problema OR. Validación de que la red aprendió el patrón lógico esperado.
 
-Prueba de reproducibilidad: Ejecución completa del notebook de principio a fin sin errores. Resultados visibles y verificables mediante tablas y gráficos.
+4) Prueba de reproducibilidad: Ejecución completa del notebook de principio a fin sin errores. Resultados visibles y verificables mediante tablas y gráficos.
 
 # ¿Cómo ejecutar el notebook?
 Acceder a la carpeta week3/
