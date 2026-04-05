@@ -1,4 +1,4 @@
-#Semana 3 – Actividad 2: Implementación de Backpropagation y Funciones de Activación en Redes Neuronales en Google Colab
+# Semana 3 – Actividad 2: Implementación de Backpropagation y Funciones de Activación en Redes Neuronales en Google Colab
 
 En esta actividad, las y los creadores de oportunidades implementarán y validarán el proceso de aprendizaje de una red neuronal mediante backpropagation y el uso de funciones de activación, en un entorno de práctica guiada (Google Colab). El propósito es evidenciar cómo una red ajusta sus parámetros (pesos y sesgos) para reducir el error durante el entrenamiento, y cómo las funciones de activación influyen en el comportamiento del modelo y su capacidad de aprendizaje.
 
