@@ -49,16 +49,25 @@ Entregar el enlace directo a la carpeta week4/ del repositorio de GitHub.
 ________________________________________________________________________________________________________
 
 # Objetivo de la actividad
-xxxxxx
+mplementar y validar una red neuronal básica entrenable en Google Colab para comprender de forma práctica el proceso de aprendizaje mediante backpropagation, analizando el impacto de distintas funciones de activación en el comportamiento del entrenamiento. El objetivo es evidenciar cómo la red ajusta sus pesos y sesgos para reducir el error y cómo la activación influye en la convergencia del loss y la métrica de desempeño.
 
 # ¿Qué se implementó?
-xxxxxxxx
+Se desarrolló un notebook ejecutable que implementa:
+
+Una red neuronal tipo perceptrón multicapa con 1 capa y 4 neuronas y 1 capa de salida con activación sigmoidal. Entrenamiento supervisado utilizando backpropagation y optimizador Adam. Uso del dataset lógico OR para un problema de clasificación binaria. Comparación controlada de dos funciones de activación en la capa oculta: Sigmoid y ReLU Registro del proceso de entrenamiento a lo largo de 100 épocas, mostrando: Evolución del loss y Evolución de la accuracy
 
 # ¿Qué pruebas se realizaron? (en términos generales)
-xxxxxxxx
+Se realizaron las siguientes pruebas de validación:
 
+Prueba de entrenamiento: Ejecución del entrenamiento completo para cada activación (Sigmoid y ReLU). Verificación de que el loss disminuye o se estabiliza con las épocas.
+
+Prueba de métricas: Evaluación del modelo entrenado sobre el mismo dataset de entrada. Comparación del loss final y la accuracy final entre ambas activaciones.
+
+Prueba de predicciones: Generación de predicciones para las entradas del problema OR. Validación de que la red aprendió el patrón lógico esperado.
+
+Prueba de reproducibilidad: Ejecución completa del notebook de principio a fin sin errores. Resultados visibles y verificables mediante tablas y gráficos.
 
 # ¿Cómo ejecutar el notebook?
-Abrir el notebook en Google Colab
-Ejecutar programa
-Observar en la salida los valores
+Acceder a la carpeta week3/ 
+Abrir el archivo Week4_Act3_RumiTorres.ipynb en Google Colab. 
+Ejecutar todas las celdas en orden (Entorno de ejecución → Ejecutar todo).
