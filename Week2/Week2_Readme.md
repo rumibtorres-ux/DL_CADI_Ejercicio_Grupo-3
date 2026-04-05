@@ -49,7 +49,7 @@ El repositorio permite identificar con claridad la evidencia de Semana 2 (estruc
 5) Forma de entrega
 El/la creador(a) de oportunidades debe entregar el enlace directo a la carpeta week2/ del repositorio de GitHub.
 
-
+_________________________________________________________________________________________________________________________
 
 # Objetivo de la actividad
 Implementar y analizar el comportamiento de una neurona artificial básica (perceptrón) con función de activación por umbral, con el fin de comprender cómo las entradas, los pesos y el sesgo (bias) influyen en la toma de decisiones y en la salida binaria de clasificación (0/1).
